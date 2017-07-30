@@ -44,7 +44,7 @@ class Game extends Component {
         super();
         this.state = {
             history: [{
-                squares: Array(9).fill(null)
+                squares: new Array(9).fill(null)
             }],
             xIsNext: true,
             stepNumber: 0,
