@@ -53,3 +53,10 @@ ol, ul {
 .game-board {
     margin:auto;
 }
+
+.status span {
+    display: inline-block;
+    padding:0 10px;
+    width:1em;
+    font-weight:700;
+}
