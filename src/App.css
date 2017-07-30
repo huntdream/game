@@ -52,6 +52,7 @@ ol, ul {
 
 .game-board {
     margin:auto;
+    min-width:147px;
 }
 
 .status span {
